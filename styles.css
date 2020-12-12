@@ -8,18 +8,71 @@
     height: 1280px;
     width: 940px;
     background-color: blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
 }
 
-.navBar {
+.header {
     margin: auto;
-    height: 50px;
+    margin-top: 10px;
+    height: 60px;
     width: 940px;
     background-color: burlywood;
 }
 
-.sectionOne {
+.topImage {
     margin: auto;
-    
+    margin-top: 10px;
+    background-color: darkolivegreen;
+    height: 200px;
+    width: 940px;
 }
 
+.sectionOne {
+    margin: auto;
+    background-color:chocolate;
+    height: 400px;
+    width: 940px;
+    display: flex;
+    justify-content: space-evenly;
+}
 
+        .serviceOne {
+            background-color: darkseagreen;
+            margin: 5 px;
+            width: 300px;
+        }
+
+        .serviceTwo {
+            background-color: darkseagreen;
+            margin: 5 px;
+            width: 300px;
+        }
+
+        .serviceThree {
+            background-color: darkseagreen;
+            margin: 5 px;
+            width: 300px;
+        }
+
+.sectionTwo {
+    margin: auto;
+    background-color:darkgray;
+    height: 400px;
+    width: 940px;
+}
+
+.sectionThree {
+    margin: auto;
+    background-color: green;
+    height: 400px;
+    width: 940px;
+}
+
+.sectionFooter {
+    margin: auto;
+    background-color: blueviolet;
+    height: 200px;
+    width: 940px;
+}
