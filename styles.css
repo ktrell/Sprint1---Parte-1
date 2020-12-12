@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.background{
+    margin: auto;
+    height: 1280px;
+    width: 940px;
+    background-color: blue;
+}
+
+.navBar {
+    margin: auto;
+    height: 50px;
+    width: 940px;
+    background-color: burlywood;
+}
+
+.sectionOne {
+    margin: auto;
+    
+}
+
+
